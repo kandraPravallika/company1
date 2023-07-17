@@ -1,0 +1,1 @@
+This my text file which i want to add to git and commit
