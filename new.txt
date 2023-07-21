@@ -1,2 +1,3 @@
 This my text file which i want to add to git and commit
 this is the adding new content
+this is added from the remote repo
